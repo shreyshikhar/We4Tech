@@ -1,1 +1,2 @@
-# We4Tech
+Problem Statement:- Understanding education in India: When India got independence from British in 1947 the literacy rate was 12.2% and as per the recent census 2011 it is 74.0%. Although it looks an accomplishment, still many people are there without access to education.It would be interesting to know the current status of the Indian education system.
+Workflow:- Sorting and Analysis of Previous data - > Creating a Prediction Model - > Train-Test-Split
